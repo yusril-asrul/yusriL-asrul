@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusril Asrul</h1>
-<h3 align="center">I am a web developer using various programming languages ​​such as PHP (Codeigniter Library), I also use Javascript (Vue Library, React, Express). And most of what I handle is the backend using the Express framework. I am also studying the GO programming language. Currently I am focusing on the Javascript programming language using popular libraries.</h3>
+<h3 align="center">Awali pekerjaanmu dengan basmalah..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
